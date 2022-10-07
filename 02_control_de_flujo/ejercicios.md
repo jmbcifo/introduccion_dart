@@ -9,6 +9,8 @@ Si tu edad es menor a 18 mostrar eres menor de edad
 
 4. Preguntar al usuario la base de la tabla de multiplicar e imprimirla en pantalla.
 
+5. Realizar el ejercicio de los días de la semana de switch case en if-else.
+
 
 
 
